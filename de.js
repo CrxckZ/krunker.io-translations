@@ -747,17 +747,17 @@ windows.playerlist.punish Bist du dir sicher dass du diese Aktion an {0} durchf�
 item.view.open Öffne Modell Ansicht
 item.view.more Mehr Informationen
 item.sell.cant Item kann nicht verkauft werden.
-item.sell.quick Are you sure you want to Quick Sell {0}?
+item.sell.quick Bist du dir sicher dass du {0} Sofort verkaufen willst?
 social.profile.stats Insgesamte Statistiken
 social.profile.class Klassen Statistiken
-social.profile.sales Sales
-social.profile.sales.market Market Sales
+social.profile.sales Verkäufe
+social.profile.sales.market Verkäufe auf dem Markt
 social.profile.skins Skins [{0}]
 social.profile.skins.none Keine veröffentlichten Skins von diesem Benutzer
 social.profile.games Spiele [{0}]
 social.profile.games.none Keine veröffentlichten Spiele von diesem Benutzer
 social.profile.assets Assets [{0}]
-social.profile.assets.none No published Assets from this user
+social.profile.assets.none Keine veröffentlichten Kreationen von diesm Benutzer
 social.profile.mods Mods [{0}]
 social.profile.mods.none Keine veröffentlichten Mods von diesem Benutzer
 social.search Suchergebnisse
